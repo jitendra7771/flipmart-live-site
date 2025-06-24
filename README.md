@@ -21,6 +21,7 @@ A modern React-based project utilizing the latest frontend technologies and tool
 
 ## 🛠️ Installation
 
+
 1. Install dependencies:
    ```bash
    npm install
