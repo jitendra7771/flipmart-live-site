@@ -11,7 +11,7 @@ export default defineConfig({
     outDir: "build",
     chunkSizeWarningLimit: 2000,
   },
-  plugins: [tsconfigPaths(), react())],
+  plugins: [tsconfigPaths(), react()],
   server: {
     port: "4028",
     host: "0.0.0.0",
